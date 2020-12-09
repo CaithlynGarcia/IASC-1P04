@@ -9,11 +9,11 @@ The Two Fates is a story about a noble faced with a dilemma whose actions could 
 
 Play The Two Fates [here](final_build/TheTwoFatesFinal.html)
 
-## Playtest
+### Playtest
 
 Playtest my game [here](playtest/playtest)
 
-## Prototype
+### Prototype
 
 Play the prototype [here](prototype/Caithlyn_TwineGamePrototype.html)
 
