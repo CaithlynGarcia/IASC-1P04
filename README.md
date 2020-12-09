@@ -7,7 +7,7 @@ The Two Fates is a story about a noble faced with a dilemma whose actions could 
 
 ## Play now
 
-Play The Two Fates [here][final_build/TheTwoFatesFinal.html]
+Play The Two Fates [here](final_build/TheTwoFatesFinal.html)
 
 ## Playtest
 
